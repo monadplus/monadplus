@@ -3,10 +3,10 @@ Welcome 😁
 
 Hi, I am Arnau:
 
-- :technologist: I am a software engineer.
-- :link: [My website](https://monadplus.pro/)
-- :scroll: [My CV](https://monadplus.pro/assets/documents/cv2019.pdf) (a bit outdated)
-- :earth_africa: Based in :es: (barcelona) but willing to relocate.
+- :technologist: I am a **software engineer**.
+- :earth_africa: **barcelona** but willing to relocate.
+- :scroll: [My CV](https://monadplus.pro/assets/documents/cv2019.pdf) (outdated)
+- :link: [Blog](https://monadplus.pro/), [Twitter](https://twitter.com/monadplus), [Linkedin](https://www.linkedin.com/in/arnau-abella/)
 
 ### About me
 
@@ -14,9 +14,9 @@ I am currently studying a [Msc. in Computer Science](https://www.fib.upc.edu/en/
 
 I am proficient in many functional programming languages but my best is **haskell**.
 
-I am confortable with complex algorithm, combinatorial problems, advanced data structures, concurrency, parallelism, low-level programming and a bit of math (probability, statistics, linear algebra, type theory ...).
+I am confortable with **algorithms, combinatorial problems, advanced data structures, concurrency, parallelism, low-level programming and a bit of math (probability, statistics, linear algebra, type theory ...)**.
 
-I enjoy working on compilers and programming languages.
+I enjoy working on **compilers** and programming languages.
 
 ### Open Source
 
@@ -37,5 +37,3 @@ I enjoy working on compilers and programming languages.
 
 ### Where to find me
 
-- [twitter](https://twitter.com/monadplus)
-- [linkedin](https://www.linkedin.com/in/arnau-abella/)
