@@ -3,8 +3,8 @@ Welcome 😁
 
 Hi, I am Arnau:
 
-- :technologist: **Software engineer/Computer scientist**.
-- :earth_africa: **Spain**.
+- :technologist: **Software engineer**
+- :earth_africa: **Europe (Spain)**.
 - :scroll: [My CV](https://monadplus.pro/assets/documents/cv2019.pdf) (outdated)
 - :link: [Blog](https://monadplus.pro/), [Twitter](https://twitter.com/monadplus), [Linkedin](https://www.linkedin.com/in/arnau-abella/)
 
@@ -23,7 +23,7 @@ I enjoy working on **compilers** and programming languages.
 - [rbst](https://hackage.haskell.org/package/rbst) - Efficient implementation of Randomized Binary Search Trees in Haskell
 - [equality](https://github.com/monadplus/equality) - Diff of arbitrary ADTs with nice visual representation
 - [python-nix](https://github.com/monadplus/python-nix) - Easy integration of Vim and Nix for Python hacking
-- More (browse my github)
+- ... browse my github!
 
 ### Talks
 
