@@ -1,16 +1,12 @@
-## About me [:envelope:](mailto:arnauabella@gmail.com)
-
-I am currently studying a [Msc. in Computer Science](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/specializations/advanced-computing) at [UPC](https://www.fib.upc.edu/en/).
+## About me :link: [Blog](https://monadplus.pro/), [Twitter](https://twitter.com/monadplus), [Linkedin](https://www.linkedin.com/in/arnau-abella/)
 
 I am proficient in many functional programming languages but my best is **haskell**.
 
-I am confortable with **algorithms, combinatorial problems, advanced data structures, concurrency, parallelism, low-level programming and a bit of math (probability, statistics, linear algebra, type theory, etc.)**.
+I am comfortable with **algorithms, combinatorial problems, advanced data structures, concurrency, parallelism, low-level programming and a bit of math (probability, statistics, linear algebra, type theory, etc.)**.
 
 I enjoy working on **compilers** and programming languages.
 
-:scroll: [Curriculum Vitae](./cv.pdf)
-
-:link: [Blog](https://monadplus.pro/), [Twitter](https://twitter.com/monadplus), [Linkedin](https://www.linkedin.com/in/arnau-abella/)
+More info at :scroll: [Curriculum Vitae](./cv.pdf)
 
 ### Open Source
 
@@ -27,4 +23,7 @@ I enjoy working on **compilers** and programming languages.
 ### Learning
 
 - [Agda](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html#what-is-agda) and [Type Theory](https://en.wikipedia.org/wiki/Type_theory)
-- Programming Language Theory
+
+### Contact me
+
+Feel free to email me [:envelope:](mailto:arnauabella@gmail.com)
