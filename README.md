@@ -14,9 +14,9 @@
 
 ### Open Source
 
+- [CPP-lang](https://github.com/monadplus/CPP-lang) - Educational C alike programming language
 - [rbst](https://hackage.haskell.org/package/rbst) - Efficient implementation of Randomized Binary Search Trees in Haskell
 - [equality](https://github.com/monadplus/equality) - Diff of arbitrary ADTs with nice visual representation
-- [python-nix](https://github.com/monadplus/python-nix) - Easy integration of Vim and Nix for Python hacking
 
 ### Talks
 
