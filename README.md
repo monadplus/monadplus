@@ -26,9 +26,8 @@
 
 ### Learning
 
-- [Agda](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html#what-is-agda)
-- [Type Theory](https://en.wikipedia.org/wiki/Type_theory)
-- Functional compilers
+- Rust (in-depth)
+- Compilers
 
 ### Contact me
 
