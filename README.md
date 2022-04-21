@@ -7,8 +7,7 @@
 
 ### Background
 
-- [Msc. in Computer Science](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/specializations/advanced-computing) at [UPC](https://www.fib.upc.edu/en/)
-- Proficient in functional programming
+- [Msc. in Computer Science](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/specializations/advanced-computing) at [UPC](https://www.fib.upc.edu/en/) (thesis [here](https://github.com/dtim-upc/DCORE/blob/main/Distributed_Complex_Event_Recognition-Arnau_Abela.pdf))
 - Comfortable with algorithms, combinatorial problems, advanced data structures, concurrency, parallelism, low-level programming and a bit of math (probability, statistics, linear algebra, type theory, etc.)
 - I enjoy working on compilers and programming languages
 
@@ -26,7 +25,6 @@
 
 ### Learning
 
-- Rust (in-depth)
 - Compilers
 
 ### Contact me
