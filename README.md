@@ -7,15 +7,17 @@
 
 ### Background
 
-- [Msc. in Computer Science](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/specializations/advanced-computing) at [UPC](https://www.fib.upc.edu/en/) (thesis [here](https://github.com/dtim-upc/DCORE/blob/main/Distributed_Complex_Event_Recognition-Arnau_Abela.pdf))
-- Comfortable with algorithms, combinatorial problems, advanced data structures, concurrency, parallelism, low-level programming and a bit of math (probability, statistics, linear algebra, type theory, etc.)
-- I enjoy working on compilers and programming languages
+- [MSc. in Computer Science](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/specializations/advanced-computing) at [UPC](https://www.fib.upc.edu/en/) (see [thesis](https://github.com/dtim-upc/DCORE/blob/main/Distributed_Complex_Event_Recognition-Arnau_Abela.pdf)).
+- Comfortable with algorithms, combinatorial problems, advanced data structures, concurrency, parallelism, low-level programming and a bit of math (probability, statistics, linear algebra, type theory, etc.).
+- I enjoy working on compilers and programming languages.
 
 ### Open Source
 
-- [CPP-lang](https://github.com/monadplus/CPP-lang) - Educational C alike programming language
-- [rbst](https://hackage.haskell.org/package/rbst) - Efficient implementation of Randomized Binary Search Trees in Haskell
-- [equality](https://github.com/monadplus/equality) - Diff of arbitrary ADTs with nice visual representation
+- [CPP-lang](https://github.com/monadplus/CPP-lang) - Educational C alike programming language written in Haskell.
+- [rbst](https://hackage.haskell.org/package/rbst) - Efficient implementation of Randomized Binary Search Trees in Haskell.
+- [DCORE](https://github.com/dtim-upc/DCORE) - Efficient Distributed Complex Event Engine written in Scala.
+- [floorplanning](https://github.com/monadplus/floorplanning) - An implementation of [Floorplan Design of VLSI Circuits](https://eecs.wsu.edu/~daehyun/teaching/2014_EE582/papers/fl-polish.pdf).
+- [bwp](https://github.com/monadplus/box_wrapping_problem) - the Box Wrapping Problem (BWP) solved using constraint programming, linear programming, and SAT.
 
 ### Talks
 
@@ -29,4 +31,4 @@
 
 ### Contact me
 
-Feel free to email me [:envelope:](mailto:arnauabella@gmail.com)
+Feel free to email me [:envelope:](mailto:arnau.abella@monadplus.pro)
