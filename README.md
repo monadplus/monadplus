@@ -3,31 +3,32 @@
 - :link: [Twitter](https://twitter.com/monadplus)
 - :link: [Linkedin](https://www.linkedin.com/in/arnau-abella/)
 - :link: [Blog](https://monadplus.pro/)
-- :scroll: [Curriculum Vitae](./cv.pdf)
+- :scroll: [Curriculum Vitae](https://monadplus.pro/assets/documents/cv.pdf)
 
-### Background
+My name is **Arnau Abella**. I'm a software engineer based in Barcelona (Spain). I have been developing software profesionally since 2017 and graduated as M.Sc. in Computer Science ([_"Distributed Complex Event Recognition"_](/assets/documents/thesis.pdf)) at [Universitat Politècnica de Catalunya](https://www.fib.upc.edu/) in 2022.
 
-- [MSc. in Computer Science](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/specializations/advanced-computing) at [UPC](https://www.fib.upc.edu/en/) (see [thesis](https://github.com/dtim-upc/DCORE/blob/main/Distributed_Complex_Event_Recognition-Arnau_Abela.pdf)).
-- Comfortable with algorithms, combinatorial problems, advanced data structures, concurrency, parallelism, low-level programming and a bit of math (probability, statistics, linear algebra, type theory, etc.).
-- I enjoy working on compilers and programming languages.
+I specialized in backend development and worked in several interesting projects including:
+- A cross-chain computational platform.
+- A payment gateway.
+- A real-time routing algorithm.
+- A knowledge management system for museums.
+- A smart remote controller for industrial cold rooms.
 
-### Open Source
+My programming languages journey:
+- [Scala](https://scala-lang.org/) (2017-2019)
+  - Author: [equality](https://github.com/monadplus/equality), and [DCORE](https://github.com/dtim-upc/DCORE)
+  - Contributor: [fs2](https://github.com/typelevel/fs2), and [scala-pet-store](https://github.com/pauljamescleary/scala-pet-store)
+  - Talks: [Generic Programming in Scala with Shapeless](https://github.com/monadplus/intro-shapeless), and [Lenses in Scala with Monacle](https://github.com/monadplus/scala-lenses)
+- [Haskell](https://www.haskell.org/) (2018-2022):
+  - Author: [CPP-lang](https://github.com/monadplus/CPP-lang), [rbst](https://hackage.haskell.org/package/rbst), [floorplanning](https://github.com/monadplus/floorplanning), and [twitch game](https://github.com/monadplus/twitch-game)
+  - Contributor: [prometheus-port](https://github.com/on-ramp/prometheus-port)
+  - Talks: [Parallelism and Concurrency in Haskell](https://github.com/monadplus/parconc-notes/tree/main/talk)
+- [Rust](https://www.rust-lang.org/) (2021-now)
+  - Author: [toy_atm](https://github.com/monadplus/toy_atm)
+  - Contributor:
+  - Talks:
 
-- [CPP-lang](https://github.com/monadplus/CPP-lang) - Educational C alike programming language written in Haskell.
-- [rbst](https://hackage.haskell.org/package/rbst) - Efficient implementation of Randomized Binary Search Trees in Haskell.
-- [DCORE](https://github.com/dtim-upc/DCORE) - Efficient Distributed Complex Event Engine written in Scala.
-- [floorplanning](https://github.com/monadplus/floorplanning) - An implementation of [Floorplan Design of VLSI Circuits](https://eecs.wsu.edu/~daehyun/teaching/2014_EE582/papers/fl-polish.pdf).
-- [bwp](https://github.com/monadplus/box_wrapping_problem) - the Box Wrapping Problem (BWP) solved using constraint programming, linear programming, and SAT.
-
-### Talks
-
-- [Parallelism and Concurrency in Haskell](https://github.com/monadplus/parconc-notes/blob/main/talk/01_parallelism.md)
-- [Lenses in Scala with Monacle](https://github.com/monadplus/scala-lenses)
-- [Generic Programming in Scala with Shapeless](https://github.com/monadplus/intro-shapeless)
-
-### Learning
-
-- Compilers
+Other projects: [Stroke prediction](https://github.com/monadplus/ml-project), [box wrapping problem](https://github.com/monadplus/box_wrapping_problem), [plfa: solutions](https://github.com/monadplus/plfa-solutions), and [NixOS configuration](https://github.com/monadplus/nixconfig)
 
 ### Contact me
 
