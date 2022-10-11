@@ -7,14 +7,15 @@ My name is **Arnau Abella**. I'm a software engineer based in Barcelona (Spain).
 - :link: [Blog](https://monadplus.pro/)
 - :scroll: [Curriculum Vitae](https://monadplus.pro/assets/documents/cv.pdf)
 
-I specialized in backend development and worked in several interesting projects including:
+I am specialised in backend development. 
+I have worked in several interesting projects including:
 - A cross-chain computational platform.
 - A payment gateway.
 - A real-time routing algorithm.
 - A knowledge management system for museums.
 - A smart remote controller for industrial cold rooms.
 
-My programming languages journey:
+My programming journey:
 - [Scala](https://scala-lang.org/) (2017-2019)
   - Author: [equality](https://github.com/monadplus/equality), and [DCORE](https://github.com/dtim-upc/DCORE)
   - Contributor: [fs2](https://github.com/typelevel/fs2), and [scala-pet-store](https://github.com/pauljamescleary/scala-pet-store)
@@ -29,6 +30,10 @@ My programming languages journey:
   - Talks:
 
 Other projects: [Stroke prediction](https://github.com/monadplus/ml-project), [box wrapping problem](https://github.com/monadplus/box_wrapping_problem), [plfa: solutions](https://github.com/monadplus/plfa-solutions), and [NixOS configuration](https://github.com/monadplus/nixconfig)
+
+On my spare time I enjoy customizing text editors:
+- (current) [Neovim](https://github.com/monadplus/dotfiles/tree/master/nvim)
+- [Emacs](https://github.com/monadplus/dotfiles/tree/master/emacs) (+ [Doom](https://github.com/monadplus/dotfiles/tree/master/.doom.d))
 
 ### Contact me
 
