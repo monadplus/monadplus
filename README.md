@@ -1,11 +1,11 @@
 ## About me 
 
+My name is **Arnau Abella**. I'm a software engineer based in Barcelona (Spain). I have been developing software profesionally since 2017 and graduated as M.Sc. in Computer Science ([_"Distributed Complex Event Recognition"_](/assets/documents/thesis.pdf)) at [Universitat Politècnica de Catalunya](https://www.fib.upc.edu/) in 2022.
+
 - :link: [Twitter](https://twitter.com/monadplus)
 - :link: [Linkedin](https://www.linkedin.com/in/arnau-abella/)
 - :link: [Blog](https://monadplus.pro/)
 - :scroll: [Curriculum Vitae](https://monadplus.pro/assets/documents/cv.pdf)
-
-My name is **Arnau Abella**. I'm a software engineer based in Barcelona (Spain). I have been developing software profesionally since 2017 and graduated as M.Sc. in Computer Science ([_"Distributed Complex Event Recognition"_](/assets/documents/thesis.pdf)) at [Universitat Politècnica de Catalunya](https://www.fib.upc.edu/) in 2022.
 
 I specialized in backend development and worked in several interesting projects including:
 - A cross-chain computational platform.
@@ -33,3 +33,5 @@ Other projects: [Stroke prediction](https://github.com/monadplus/ml-project), [b
 ### Contact me
 
 Feel free to email me [:envelope:](mailto:arnau.abella@monadplus.pro)
+
+![screenshot desktop](./screenshot.png)
