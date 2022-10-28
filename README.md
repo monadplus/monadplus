@@ -6,6 +6,7 @@ My name is **Arnau Abella**. I'm a software engineer based in Barcelona (Spain).
 - :link: [Linkedin](https://www.linkedin.com/in/arnau-abella/)
 - :link: [Blog](https://monadplus.pro/)
 - :scroll: [Curriculum Vitae](https://monadplus.pro/assets/documents/cv.pdf)
+- :envelope: `arnau.abella <at> monadplus.pro`
 
 I am specialised in backend development. 
 I have worked in several interesting projects including:
@@ -29,14 +30,10 @@ My programming journey:
   - Contributor:
   - Talks:
 
-Other projects: [Stroke prediction](https://github.com/monadplus/ml-project), [box wrapping problem](https://github.com/monadplus/box_wrapping_problem), [plfa: solutions](https://github.com/monadplus/plfa-solutions), and [NixOS configuration](https://github.com/monadplus/nixconfig)
+Other projects: [Stroke prediction](https://github.com/monadplus/ml-project), [box wrapping problem](https://github.com/monadplus/box_wrapping_problem), [plfa: solutions](https://github.com/monadplus/plfa-solutions)...
 
-On my spare time I enjoy customizing text editors:
-- (current) [Neovim](https://github.com/monadplus/dotfiles/tree/master/nvim)
-- [Emacs](https://github.com/monadplus/dotfiles/tree/master/emacs) (+ [Doom](https://github.com/monadplus/dotfiles/tree/master/.doom.d))
-
-### Contact me
-
-Feel free to email me [:envelope:](mailto:arnau.abella@monadplus.pro)
+On my spare time, I enjoy:
+- Improving my `Arch Linux`/`NixOS` dotfiles
+- [Neovim](https://github.com/monadplus/nvim)
 
 ![screenshot desktop](./screenshot.png)
