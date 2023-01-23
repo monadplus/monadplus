@@ -26,14 +26,10 @@ My programming journey:
   - Contributor: [prometheus-port](https://github.com/on-ramp/prometheus-port)
   - Talks: [Parallelism and Concurrency in Haskell](https://github.com/monadplus/parconc-notes/tree/main/talk)
 - [Rust](https://www.rust-lang.org/) (2021-now)
-  - Author: [toy_atm](https://github.com/monadplus/toy_atm)
+  - Author: [toy_atm](https://github.com/monadplus/toy_atm), [prompt_derive](https://github.com/monadplus/prompt_derive)
   - Contributor:
   - Talks:
 
 Other projects: [Stroke prediction](https://github.com/monadplus/ml-project), [box wrapping problem](https://github.com/monadplus/box_wrapping_problem), [plfa: solutions](https://github.com/monadplus/plfa-solutions)...
-
-On my spare time, I enjoy:
-- Improving my `Arch Linux`/`NixOS` dotfiles
-- [Neovim](https://github.com/monadplus/nvim)
 
 ![screenshot desktop](./screenshot.png)
