@@ -21,7 +21,7 @@ My programming journey:
   - Author: [equality](https://github.com/monadplus/equality), and [DCORE](https://github.com/dtim-upc/DCORE)
   - Contributor: [fs2](https://github.com/typelevel/fs2), and [scala-pet-store](https://github.com/pauljamescleary/scala-pet-store)
   - Talks: [Generic Programming in Scala with Shapeless](https://github.com/monadplus/intro-shapeless), and [Lenses in Scala with Monacle](https://github.com/monadplus/scala-lenses)
-- [Haskell](https://www.haskell.org/) (2018-now):
+- [Haskell](https://www.haskell.org/) (2018-2021):
   - Author: [CPP-lang](https://github.com/monadplus/CPP-lang), [rbst](https://hackage.haskell.org/package/rbst), [floorplanning](https://github.com/monadplus/floorplanning), [parsing-by-example](https://github.com/monadplus/parsing-by-example), and [twitch game](https://github.com/monadplus/twitch-game)
   - Contributor: [prometheus-port](https://github.com/on-ramp/prometheus-port)
   - Talks: [Parallelism and Concurrency in Haskell](https://github.com/monadplus/parconc-notes/tree/main/talk)
