@@ -26,7 +26,7 @@ My programming journey:
   - Contributor: [prometheus-port](https://github.com/on-ramp/prometheus-port)
   - Talks: [Parallelism and Concurrency in Haskell](https://github.com/monadplus/parconc-notes/tree/main/talk)
 - [Rust](https://www.rust-lang.org/) (2021-now)
-  - Author: [toy_atm](https://github.com/monadplus/toy_atm), [prompt_derive](https://github.com/monadplus/prompt_derive)
+  - Author: [better-default-derive](https://crates.io/crates/better-default-derive), [toy_atm](https://github.com/monadplus/toy_atm)
   - Contributor:
   - Talks:
 
