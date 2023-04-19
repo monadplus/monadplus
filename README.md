@@ -1,4 +1,4 @@
-## About me 
+## About me
 
 My name is **Arnau Abella**. I'm a software engineer based in Barcelona (Spain). I have been developing software profesionally since 2017 and graduated as M.Sc. in Computer Science ([_"Distributed Complex Event Recognition"_](https://monadplus.pro/assets/documents/thesis.pdf)) at [Universitat Politècnica de Catalunya](https://www.fib.upc.edu/) in 2022.
 
@@ -33,3 +33,5 @@ My programming journey:
 Other projects: [Stroke prediction](https://github.com/monadplus/ml-project), [box wrapping problem](https://github.com/monadplus/box_wrapping_problem), [plfa: solutions](https://github.com/monadplus/plfa-solutions)...
 
 ![screenshot desktop](./screenshot.png)
+
+![](https://komarev.com/ghpvc/?username=monadplus&color=blueviolet&style=for-the-badge)
