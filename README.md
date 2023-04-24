@@ -1,6 +1,4 @@
-## About me
-
-My name is **Arnau Abella**. I'm a software engineer based in Barcelona (Spain). I have been developing software profesionally since 2017 and graduated as M.Sc. in Computer Science ([_"Distributed Complex Event Recognition"_](https://monadplus.pro/assets/documents/thesis.pdf)) at [Universitat Politècnica de Catalunya](https://www.fib.upc.edu/) in 2022.
+Hi, my name is **Arnau Abella**. I'm a **software engineer** based in **Barcelona** (Spain).
 
 - :link: [Twitter](https://twitter.com/monadplus)
 - :link: [Linkedin](https://www.linkedin.com/in/arnau-abella/)
@@ -8,9 +6,10 @@ My name is **Arnau Abella**. I'm a software engineer based in Barcelona (Spain).
 - :scroll: [Curriculum Vitae](https://monadplus.pro/assets/documents/cv.pdf)
 - :envelope: `arnau.abella <at> monadplus.pro`
 
-I am specialised in backend development. 
+On 2017, I obtained my **BSc in Computer Science** at Facultat d'Informàtica de Barcelona ([FIB](https://www.fib.upc.edu/en)). Later, on 2022, I obtained my **MSc in Computer Science** at Universitat Politècnica de Catalunya ([UPC](https://www.fib.upc.edu/)).
+
+I have been developing software profesionally since 2017. 
 I have worked in several interesting projects including:
-- A cross-chain computational platform.
 - A payment gateway.
 - A real-time routing algorithm.
 - A knowledge management system for museums.
@@ -34,4 +33,4 @@ Other projects: [Stroke prediction](https://github.com/monadplus/ml-project), [b
 
 ![screenshot desktop](./screenshot.png)
 
-![](https://komarev.com/ghpvc/?username=monadplus&color=blueviolet&style=for-the-badge)
+![visit counter](https://komarev.com/ghpvc/?username=monadplus&color=blueviolet&style=for-the-badge)
