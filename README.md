@@ -1,21 +1,9 @@
-<a href="https://twitter.com/monadplus">
-  <img align="middle" alt="Arnau Abella | Twitter" width="30px" src="https://raw.githubusercontent.com/monadplus/monadplus/master/assets/twitter.png" />
-</a>
-<a href="https://www.linkedin.com/in/arnau-abella/">
-  <img align="middle" alt="Arnau Abella | LinkedIn" width="30px" src="https://raw.githubusercontent.com/monadplus/monadplus/master/assets/linkedin.png" />
-</a>
 <a href="https://monadplus.pro/">
-  <img align="middle" alt="Arnau Abella | Blog" width="30px" src="https://raw.githubusercontent.com/monadplus/monadplus/master/assets/blog.png" />
+  <img align="right" alt="Arnau Abella | Blog" width="50px" src="https://raw.githubusercontent.com/monadplus/monadplus/master/assets/blog.png" />
 </a>
 <a href="https://monadplus.pro/assets/documents/cv.pdf">
-  <img align="middle" alt="Arnau Abella | CV" width="30px" src="https://raw.githubusercontent.com/monadplus/monadplus/master/assets/cv.png" />
+  <img align="right" alt="Arnau Abella | CV" width="50px" src="https://raw.githubusercontent.com/monadplus/monadplus/master/assets/cv.png" />
 </a>
-<a href="mailto:arnau.abella@monadplus.pro">
-  <img align="middle" alt="Arnau Abella | Mail" width="30px" src="https://raw.githubusercontent.com/monadplus/monadplus/master/assets/mail.png" />
-</a>
-
-<br/>
-<br/>
 
 Open source & personal projects:
 - Haskell
@@ -49,8 +37,8 @@ Professional projects:
 - Knowledge management system for museums & private collections
 - Smartphone as remote controller for industrial cold rooms
 
-![visit counter](https://komarev.com/ghpvc/?username=monadplus&color=blueviolet&style=for-the-badge)
-
 ![monadplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=monadplus&count_private=true&theme=dracula)
+
+<!-- ![visit counter](https://komarev.com/ghpvc/?username=monadplus&color=lightgrey&style=for-the-badge) -->
 
 [^1]: Private, for security reasons
