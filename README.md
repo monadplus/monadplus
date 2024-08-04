@@ -11,7 +11,7 @@ Open source & personal projects:
   - Contributor: [prometheus-port](https://github.com/on-ramp/prometheus-port)
   - Talks: [Parallelism and Concurrency in Haskell](https://github.com/monadplus/parconc-notes/tree/main/talk)
 - Rust
-  - Author: [better-default-derive](https://crates.io/crates/better-default-derive), [toy_atm](https://github.com/monadplus/toy_atm)
+  - Author: [elgato-keylight](https://github.com/monadplus/elgato-keylight), [better-default-derive](https://crates.io/crates/better-default-derive)
   - Contributor:
   - Talks:
 - Scala
