@@ -10,7 +10,7 @@
 Open source & personal projects:
 - Haskell
   - Author: [CPP-lang](https://github.com/monadplus/CPP-lang), [rbst](https://hackage.haskell.org/package/rbst), [floorplanning](https://github.com/monadplus/floorplanning), [parsing-by-example](https://github.com/monadplus/parsing-by-example), and [twitch game](https://github.com/monadplus/twitch-game)
-  - Contributor: [prometheus-port](https://github.com/on-ramp/prometheus-port)
+  - Contributor: [libsodium-bindings](https://github.com/haskell-cryptography/libsodium-bindings), [prometheus-port](https://github.com/on-ramp/prometheus-port)
   - Talks: [Parallelism and Concurrency in Haskell](https://github.com/monadplus/parconc-notes/tree/main/talk)
 - Rust
   - Author: [elgato-keylight](https://github.com/monadplus/elgato-keylight), [better-default-derive](https://crates.io/crates/better-default-derive)
