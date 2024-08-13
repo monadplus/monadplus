@@ -5,6 +5,8 @@
   <img align="right" alt="Arnau Abella | CV" width="50px" src="https://raw.githubusercontent.com/monadplus/monadplus/master/assets/cv.png" />
 </a>
 
+![visit counter](https://komarev.com/ghpvc/?username=monadplus&color=lightgrey&style=for-the-badge)
+
 Open source & personal projects:
 - Haskell
   - Author: [CPP-lang](https://github.com/monadplus/CPP-lang), [rbst](https://hackage.haskell.org/package/rbst), [floorplanning](https://github.com/monadplus/floorplanning), [parsing-by-example](https://github.com/monadplus/parsing-by-example), and [twitch game](https://github.com/monadplus/twitch-game)
@@ -22,10 +24,10 @@ Open source & personal projects:
 - C++: [Box Wrapping Problem](https://github.com/monadplus/box_wrapping_problem)
 - Agda: [Programming Language Foundation in Agda (Solutions)](https://github.com/monadplus/plfa-solutions)
 - Dotfiles:
-  - Arch Linux[^1]
-  - [Keyboardio](https://github.com/monadplus/Kaleidoscope)
+  - [Arch Linux](https://github.com/monadplus/dotfiles)[^1] / [NixOS](https://github.com/monadplus/old-nixos-configuration)[^1]
   - [Neovim](https://github.com/monadplus/nvim)
-  - NixOS[^1]
+  - [Keyboardio](https://github.com/monadplus/Kaleidoscope)
+- Miscellaneous: [polybar-tidal](https://github.com/monadplus/polybar-tidal)
 
 Education:
 - BSc in Computer Science at Facultat d'Informàtica de Barcelona ([FIB](https://www.fib.upc.edu/en)).
@@ -39,6 +41,4 @@ Professional projects:
 
 ![monadplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=monadplus&count_private=true&theme=dracula)
 
-<!-- ![visit counter](https://komarev.com/ghpvc/?username=monadplus&color=lightgrey&style=for-the-badge) -->
-
-[^1]: Private, for security reasons
+[^1]: Private for security reasons
